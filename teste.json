@@ -1,0 +1,24 @@
+{
+  "nome": "Lucas",
+  "sobrenome": "Lougon",
+  "endereço": [
+    {
+      "rua": "R1",
+      "numero": 108
+    },
+    {
+      "rua": "R2",
+      "numero": 103
+    }
+  ],
+  "altura": 1.82,
+  "numeros_preferidos": [
+    2,
+    4,
+    6,
+    8,
+    10
+  ],
+  "dev": true,
+  "nada": null
+}
